@@ -1,0 +1,26 @@
+@import "_header";
+
+body {
+    font-size: 20px;
+
+    h1 {
+        color: blue;
+    }
+
+    div {
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+    .block {
+
+		&__item {
+		}
+}
+.block {
+}
+.block__item {
+}
+}
+.red{
+    color: red;
+}
